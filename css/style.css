@@ -15,7 +15,7 @@
 	line-height: 3rem;
 	color:white;
 }
-.hd ul li:hover{
+.z ul li.active,.z ul li:hover{
 	background-color: #3c4248;
 }
 .fixed-right{
